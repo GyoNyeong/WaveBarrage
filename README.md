@@ -52,7 +52,6 @@ LOL PVE / 벰서라이크 집중포화 모작 프로젝트
   - `OnRep_PlayerStates`를 통해 클라이언트에서 UI 동기화.
   - 체력 자동 회복 `UpdateAllPlayerHPHell` 및 데미지 처리 `UpdatePlayerHP` 구현.
     
-  - 서버에서 몬스터의 타겟팅 로직을 처리하고, 클라이언트에서 동기화.
    
 <br>
 
